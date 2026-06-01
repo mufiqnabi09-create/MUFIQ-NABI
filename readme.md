@@ -9,6 +9,9 @@ Identify peak and slow business hours.
 Develop an interactive Excel dashboard.
 Support data-driven business decisions.
 
+Link for google spreadsheets.
+https://docs.google.com/spreadsheets/d/1Yca5cecka08zqVciqWTnxRqIlHCclXQsSAQh1yPNpdc/edit?usp=sharing
+
 
 ## Day 1: 
 Project Initialization
